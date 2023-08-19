@@ -1,7 +1,7 @@
 {
   "name": "contest2randomuser",
   "version": "0.1.0",
-  "homepage": "https://ManiPoorna.github.io/RandomUserLogin-React.git",
+  "homepage": "https://ManiPoorna.github.io/RandomUserAuth-React",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
