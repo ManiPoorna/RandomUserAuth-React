@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/RandomUserAuth-React/static/css/main.63d692ca.css",
+    "main.js": "/RandomUserAuth-React/static/js/main.7669eee3.js",
+    "static/media/Background Pattern.png": "/RandomUserAuth-React/static/media/Background Pattern.0b8141e39145356609be.png",
+    "index.html": "/RandomUserAuth-React/index.html",
+    "main.63d692ca.css.map": "/RandomUserAuth-React/static/css/main.63d692ca.css.map",
+    "main.7669eee3.js.map": "/RandomUserAuth-React/static/js/main.7669eee3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63d692ca.css",
+    "static/js/main.7669eee3.js"
+  ]
+}
